@@ -59,3 +59,12 @@ body{
     left: 0;
     min-height: 300px;
 }
+
+/* so you can see the difference ;) */
+#nonSmoking {
+    display: none;
+}
+
+#smoking {
+    visibility: hidden;
+}
