@@ -68,3 +68,9 @@ body{
 #smoking {
     visibility: hidden;
 }
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
